@@ -1,0 +1,3 @@
+src/Application.vala
+data/notifications.desktop.in
+data/notifications.appdata.xml.in
