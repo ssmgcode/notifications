@@ -1,0 +1,58 @@
+# German translations for com.github.ssmgcode.notifications package.
+# Copyright (C) 2021 THE com.github.ssmgcode.notifications'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.ssmgcode.notifications package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.ssmgcode.notifications\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-08 14:24-0600\n"
+"PO-Revision-Date: 2021-03-08 14:24-0600\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/Application.vala:13 data/notifications.appdata.xml.in:5
+msgid "GLib Notifications"
+msgstr ""
+
+#: src/Application.vala:16
+msgid "Notifications"
+msgstr ""
+
+#: src/Application.vala:17
+msgid "Show"
+msgstr ""
+
+#: data/notifications.desktop.in:3
+msgid "GLib Notification"
+msgstr ""
+
+#: data/notifications.desktop.in:4
+msgid "GLib Notification API"
+msgstr ""
+
+#: data/notifications.desktop.in:5
+msgid "GLib Notification Library/API usage"
+msgstr ""
+
+#: data/notifications.desktop.in:8
+msgid "application-default-icon"
+msgstr ""
+
+#: data/notifications.desktop.in:11
+msgid "GLib;Notification;API"
+msgstr ""
+
+#: data/notifications.appdata.xml.in:6
+msgid "GLib.Notification Library"
+msgstr ""
+
+#: data/notifications.appdata.xml.in:8
+msgid "GLib.Notification Library App"
+msgstr ""
